@@ -1,6 +1,6 @@
 # Simple Portfolio Website with HTML, CSS, BOOTSTRAP
 
-<p  align="center"><img width="600" src="img/screencapture.png"></p>
+<p  align="center"><img width="800" src="img/screencapture.png"></p>
 
 ## SHAPEAI WEB DEV WITH BOOTSTRAP BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
